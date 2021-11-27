@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = rachaelmcnamaraa@gmail.com
+	name = Rachael McNamara
